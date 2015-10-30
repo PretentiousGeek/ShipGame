@@ -12,11 +12,15 @@
     <background>background\bgr_deepspace</background>
   </backgrounds>
   <paths name="paths"/>
+  <fonts name="fonts">
+    <font>fonts\fnt_league</font>
+  </fonts>
   <objects name="objects">
     <object>objects\obj_ship</object>
+    <object>objects\obj_con</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\rm_deepspace</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
